@@ -66,7 +66,7 @@ export default function HomePage() {
   const handleDownloadResume = () => {
     // Create a temporary anchor element to trigger download
     const link = document.createElement('a')
-    link.href = '/resume/Suraj_EM_Resume.pdf' // Path to your resume file in public folder
+    link.href = './Suraj_EM_Resume.pdf' // Path to your resume file in public folder
     link.download = 'Suraj_EM_Resume.pdf' // Name for the downloaded file
     document.body.appendChild(link)
     link.click()
