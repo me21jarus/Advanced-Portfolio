@@ -398,7 +398,7 @@ export function ContactSection() {
                 },
                 {
                   icon: Instagram,
-                  href: "https://instagram.com/your_username",
+                  href: "https://www.instagram.com/suraj_em_217",
                   color: "from-pink-500 to-purple-600",
                   hoverColor: "hover:from-pink-600 hover:to-purple-700",
                   name: "Instagram"
