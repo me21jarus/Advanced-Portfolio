@@ -370,7 +370,7 @@ export function ContactSection() {
               {[
                 {
                   icon: Linkedin,
-                  href: "https://www.linkedin.com/in/suraj-e-m-407610307/",
+                  href: "https://www.linkedin.com/in/suraj-e-m-395880280/",
                   color: "from-blue-500 to-blue-600",
                   hoverColor: "hover:from-blue-600 hover:to-blue-700",
                   name: "LinkedIn"
